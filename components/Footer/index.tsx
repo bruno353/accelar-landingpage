@@ -149,6 +149,7 @@ const Footer = () => {
                     <a
                       href="https://app.accelar.io/privacy-policy"
                       target="_blank"
+                      rel="nofollow noreferrer"
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
                       {" "}
@@ -159,6 +160,7 @@ const Footer = () => {
                     <a
                       href="https://app.accelar.io/privacy-policy"
                       target="_blank"
+                      rel="nofollow noreferrer"
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
                       {" "}
