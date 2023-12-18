@@ -22,7 +22,7 @@ const Hero = () => {
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
-                    href="https://github.com/NextJSTemplates/startup-nextjs"
+                    href="https://app.accelar.io/signup"
                     className="rounded-md bg-[#7E0AC2] py-4 px-8 text-base font-semibold text-white duration-300 ease-in-out hover:bg-[#7f0ac263] "
                   >
                     Start Building
